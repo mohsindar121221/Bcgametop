@@ -1,1 +1,3 @@
 # Bcgametop.com
+</html>
+</head>
